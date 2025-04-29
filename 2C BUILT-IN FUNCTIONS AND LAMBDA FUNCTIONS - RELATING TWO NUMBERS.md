@@ -1,40 +1,45 @@
 # Exp.No:2c
-## BUILT-IN FUNCTIONS AND LAMBDA FUNCTIONS - RELATING TWO NUMBERS
+## BUILT-IN FUNCTIONS AND LAMBDA FUNCTIONS - Greatest of Two Numbers 
 
 ---
 
 ### AIM  
-To write a Python program to check the relation between two numbers — whether one number is greater than, equal to, or lesser than another — using a lambda function.
+To write a Python program using a lambda function to find the greatest of two given numbers.
 
 ---
 
 ### ALGORITHM
 
-1. Begin the program.  
-2. Use `eval()` to get two numbers (`num1` and `num2`) from the user.  
-3. Define a lambda function `max` that takes two arguments `x` and `y`.  
-4. The lambda function compares the numbers and prints:
-   - If `x > y`, then it prints: "`num2` is smaller than `num1`".
-   - Otherwise, it prints: "`num1` is smaller than `num2`".
-5. Call the lambda function by passing `num1` and `num2` as arguments.  
-6. Terminate the program.
+1.Take two numbers as input from the user.
 
+2.Define a lambda function that returns the greater of the two numbers using a conditional expression.
+
+3.Call the lambda function with the input values.
+
+4.Print the result as the greatest number.
 ---
 
 ### PROGRAM
 
 ```
-
+reg no: 212222060143
+name: Mariam Sherin.
+Max = lambda a, b : a if(a > b) else b
+ 
+input1=int(input())
+input2=int(input())
+print("The greatest number is:",Max(input1,input2))
 ```
 
 ### OUTPUT
 
 ```
+![image](https://github.com/user-attachments/assets/33d6ff54-890a-4c68-a2ae-1f8e1866a90a)
 
 ```
 
 ### RESULT
 
 ```
-
+Thus, The Python program using a lambda function to find the greatest of two given numbers was implemented and executed successfully.
 ```
