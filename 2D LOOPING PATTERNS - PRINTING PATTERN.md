@@ -38,4 +38,4 @@ for i in range(rows + 1, 0, -1):
 ![image](https://github.com/user-attachments/assets/b1604a25-33d2-483e-adf7-b824cfa4c13c)
 
 ### RESULT
-Thus, The Python program that prints a downward pyramid pattern of stars based on the number of rows given as input was implemented and executed.
+Thus, The Python program that prints a downward pyramid pattern of stars based on the number of rows given as input was implemented and executed successfully.
