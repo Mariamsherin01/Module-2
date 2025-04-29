@@ -9,8 +9,11 @@ To write a Python program that prints the first n natural numbers using a loop.
 ###  Algorithm
 
 1.Start the program and take input n from the user.
+
 2.Print a heading message: "Natural Numbers are :".
+
 3.Use a for loop from 1 to n (inclusive).
+
 4.Inside the loop, print each number.
 
 ---
